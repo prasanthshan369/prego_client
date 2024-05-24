@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.99baadd0.css",
-    "main.js": "/static/js/main.824ba9f2.js",
+    "main.js": "/static/js/main.2eda3b2c.js",
     "static/media/prego_logo.png": "/static/media/prego_logo.b6e33fb9bca67c333306.png",
     "static/media/users.png": "/static/media/users.f9884b74cd7c4c579cfb.png",
     "static/media/warning.png": "/static/media/warning.fb284bef7f26afa90f15.png",
@@ -12,10 +12,10 @@
     "static/media/power_gray.png": "/static/media/power_gray.468826b08afa24cf382f.png",
     "index.html": "/index.html",
     "main.99baadd0.css.map": "/static/css/main.99baadd0.css.map",
-    "main.824ba9f2.js.map": "/static/js/main.824ba9f2.js.map"
+    "main.2eda3b2c.js.map": "/static/js/main.2eda3b2c.js.map"
   },
   "entrypoints": [
     "static/css/main.99baadd0.css",
-    "static/js/main.824ba9f2.js"
+    "static/js/main.2eda3b2c.js"
   ]
 }
